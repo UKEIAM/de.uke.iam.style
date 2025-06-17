@@ -1,0 +1,16 @@
+{
+  // Please copy this configuration file to your settings file.
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.format.onType.enabled": true,
+  "java.format.settings.url": ".vscode/GoogleStyleIAM.xml",
+  "java.format.settings.profile": "GoogleStyle",
+  "java.completion.importOrder": [
+    "de",
+    "java",
+    "javax",
+    "org",
+    "com",
+    "*",
+    "#"
+  ]
+}
